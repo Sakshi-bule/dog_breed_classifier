@@ -1,5 +1,7 @@
 # 120-Breed Dog Classifier
 
+# 120-Breed Dog Classifier
+
 Dog breed classification project using MobileNetV2 and TensorFlow/Keras.
 
 The model is trained on the Stanford Dogs Dataset and can classify images into 120 dog breeds.
@@ -11,9 +13,14 @@ The model is trained on the Stanford Dogs Dataset and can classify images into 1
 
 ## Tech Stack
 
-Python, TensorFlow, Keras, MobileNetV2, NumPy, Streamlit
+- Python
+- TensorFlow
+- Keras
+- MobileNetV2
+- NumPy
+- Streamlit
 
-## Run
+## Run Locally
 
 ```bash
 pip install -r requirements.txt
