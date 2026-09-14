@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Dataset - not needed for deployment
+data/
+images/
+annotations/
+
+# Local test image
+test_dog.jpg
+
+# Old model format - not used by the app
+dog_breed_model.h5
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
